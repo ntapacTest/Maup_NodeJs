@@ -1,4 +1,6 @@
 /*use strict*/
+// Подписка на собития добавления и удаления подписки
+
 let evt=require('events').EventEmitter;
 let emt=new evt();
 
