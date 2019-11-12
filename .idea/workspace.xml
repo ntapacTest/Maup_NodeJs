@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372e9b57-cd3f-4827-bbe6-6a68a5202c96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191111/04_HTTP_Server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191111/05_Return_HTML/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191111/06_QueryParams/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191111/07_GetAndAjax/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191111/07_GetAndAjax/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/01_Events/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/02/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/02_AsyncEvents/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/03/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/03_Add_Remove_Subscription/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/04/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/04_SetParams/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/05/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/05_MaxListenerCount/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/06/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/06_ListenerList/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/07/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/07_GlobalVariables_Url_Path/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/08/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/08_FileSystem/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/08/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/08_FileSystem/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191107/09/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/20191107/09_ConsoleTimer/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -87,7 +71,8 @@
       <workItem from="1573060253345" duration="2182000" />
       <workItem from="1573062635502" duration="3610000" />
       <workItem from="1573138904547" duration="2416000" />
-      <workItem from="1573485460089" duration="10095000" />
+      <workItem from="1573485460089" duration="10712000" />
+      <workItem from="1573575997534" duration="1692000" />
     </task>
     <servers />
   </component>
