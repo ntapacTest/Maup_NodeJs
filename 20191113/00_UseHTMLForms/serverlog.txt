@@ -1,0 +1,11 @@
+17:28:39.563 GET /
+17:28:40.706 GET /favicon.ico
+req in : 17:32:35.381, req out : 17:32:35.383 req info :  GET / 
+req in : 17:32:39.838, req out : 17:32:40.62 req info :  POST /reg 
+req in : 17:44:21.380, req out : 17:44:21.381 req info :  GET / 
+req in : 17:44:25.120, req out : 17:44:25.430 req info :  POST / 
+req in : 17:45:39.519, req out : 17:45:39.519 req info :  GET / 
+req in : 17:45:44.485, req out : 17:45:44.485 req info :  POST / 
+req in : 17:45:58.997, req out : 17:45:59.0 req info :  GET / 
+req in : 17:46:7.982, req out : 17:46:7.992 req info :  POST / 
+req in : 17:46:18.30, req out : 17:46:18.30 req info :  GET /reg 
